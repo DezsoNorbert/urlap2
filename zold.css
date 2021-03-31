@@ -1,0 +1,15 @@
+sup{
+    color: orangered;
+}
+
+input{
+    width: 7cm;
+}
+
+select{
+    width: 7cm;
+}
+
+#nem{
+    width: -7cm;
+}
